@@ -12,3 +12,7 @@ A text editor is a software application that can create and edit text files, suc
 free for everyone to use in any good purposes.
 
 ## Calculator
+![1](https://github.com/Ravikiran7177/Calculator-using-HTML-CSS-and-JS/assets/123094703/bb5e6b94-c7a2-4ccb-b435-e613cdc141f8)
+![2](https://github.com/Ravikiran7177/Calculator-using-HTML-CSS-and-JS/assets/123094703/b45981ef-8a79-4179-9840-5181c65c0a6c)
+![3](https://github.com/Ravikiran7177/Calculator-using-HTML-CSS-and-JS/assets/123094703/196a517e-fd9a-46ca-8450-806fc2685af9)
+
